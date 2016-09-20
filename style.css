@@ -1,0 +1,33 @@
+body{
+	margin: 0 auto;
+	max-width: 460px;
+	min-width: 240px;
+}
+.body{
+	height: 440px;
+	max-width: 460px;
+	min-width: 240px;
+	margin: 0 auto;
+	background-color: #f3f3f3;
+}
+.menu{
+	height: 35px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 22px;
+}
+.body img{
+	width: 98%;
+	margin-left: 1%;
+}
+.on{
+	height: 25px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #dbdad6;
+	margin-bottom: 50px;
+}
+a{
+	text-decoration: none;
+	color:#ffffff;
+}
